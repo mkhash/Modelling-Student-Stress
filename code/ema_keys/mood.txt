@@ -1,0 +1,30 @@
+{
+        "name": "Mood",
+        "questions": [
+            {
+                "options": "(Yes) 1 2 (No)",
+                "question_id": "happyornot",
+                "question_text": "Do you feel AT ALL happy right now?"
+            },
+            {
+                "options": "[1]a little bit, [2]somewhat, [3]very much, [4]extremely, ",
+                "question_id": "happy",
+                "question_text": "If you answered \"Yes\" on the first question, how happy do you feel? "
+            },
+            {
+                "options": "(Yes) 1 2 (No)",
+                "question_id": "sadornot",
+                "question_text": "Do you feel AT ALL sad right now? "
+            },
+            {
+                "options": "[1]a little bit, [2]somewhat, [3]very much, [4]extremely, ",
+                "question_id": "sad",
+                "question_text": "If you answered \"Yes\" on the third question, how sad do you feel?"
+            },
+            {
+                "options": "",
+                "question_id": "location",
+                "question_text": ""
+            }
+        ]
+    }

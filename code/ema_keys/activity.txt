@@ -1,0 +1,30 @@
+{
+    "name": "Activity",
+    "questions": [
+        {
+            "options": "[1]0-10%, [2]11-25%, [3]26-50%, [4]51-75%, [5]76-100%, ",
+            "question_id": "working",
+            "question_text": "alone working"
+        },
+        {
+            "options": "[1]0-10%, [2]11-25%, [3]26-50%, [4]51-75%, [5]76-100%, ",
+            "question_id": "relaxing",
+            "question_text": "alone relaxing"
+        },
+        {
+            "options": "[1]0-10%, [2]11-25%, [3]26-50%, [4]51-75%, [5]76-100%, ",
+            "question_id": "other_working",
+            "question_text": "with other people working"
+        },
+        {
+            "options": "[1]0-10%, [2]11-25%, [3]26-50%, [4]51-75%, [5]76-100%, ",
+            "question_id": "other_relaxing",
+            "question_text": "with other people relaxing"
+        },
+        {
+            "options": "",
+            "question_id": "location",
+            "question_text": "location"
+        }
+    ]
+}

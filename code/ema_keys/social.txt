@@ -1,0 +1,15 @@
+{
+        "name": "Social",
+        "questions": [
+            {
+                "options": "[1]0-4 persons, [2]5-9 persons, [3]10-19 persons, [4]20-49 persons, [5]50-99 persons, [6]over 100 persons, ",
+                "question_id": "number",
+                "question_text": "How many people did you have contact with yesterday, including anyone you said hello to, chatted, talked or discussed matters with, whether you did it face-to-face, by telephone, by mail or on the internet, and whether you personally knew the person or not? Please select one of the following categories that best matches your estimate:"
+            },
+            {
+                "options": "",
+                "question_id": "location",
+                "question_text": ""
+            }
+        ]
+    }

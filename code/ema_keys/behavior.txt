@@ -1,0 +1,60 @@
+{
+        "name": "Behavior",
+        "questions": [
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "enthusiastic",
+                "question_text": "In the past 15 minutes, I was extraverted, enthusiastic.                (Scale: 1=Not at all; 2=A little; 3=somewhat; 4=very; 5=extremely)"
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "critical",
+                "question_text": "......, I was critical, quarrelsome."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "dependable",
+                "question_text": "......, I was dependable, self-disciplined."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "anxious",
+                "question_text": "......, I was anxious, easily upset."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "experiences",
+                "question_text": "......, I was open to new experiences, complex."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "reserved",
+                "question_text": "......, I was reserved, quiet."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "sympathetic",
+                "question_text": "......, I was sympathetic, warm."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "disorganized",
+                "question_text": "......,  I was disorganized, careless."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "calm",
+                "question_text": "......, I was calm, emotionally stable."
+            },
+            {
+                "options": "(Not at all) 1 2 3 4 5 (Extremely)",
+                "question_id": "conventional",
+                "question_text": "......, I was conventional, uncreative."
+            },
+            {
+                "options": "",
+                "question_id": "location",
+                "question_text": "location"
+            }
+        ]
+    }

@@ -1,0 +1,30 @@
+{
+        "name": "Exercise",
+        "questions": [
+            {
+                "options": "(Yes) 1 2 (No)",
+                "question_id": "have",
+                "question_text": "Did you do vigorous exercise today (don't include walking) such as run, swim, cycle, play a sport"
+            },
+            {
+                "options": "(Yes) 1 2 (No)",
+                "question_id": "schedule",
+                "question_text": "If no did you want to but couldn't because of your schedule?"
+            },
+            {
+                "options": "[1]None, [2]<30 mins, [3]30-60 mins, [4]60-90 mins, [5]>90mins, ",
+                "question_id": "exercise",
+                "question_text": "If you exercised how long did you exercise for?"
+            },
+            {
+                "options": "",
+                "question_id": "location",
+                "question_text": ""
+            },
+            {
+                "options": "[1]None, [2]<30 mins, [3]30-60 mins, [4]60-90 mins, [5]>90mins, ",
+                "question_id": "walk",
+                "question_text": "How long did you walk for today?"
+            }
+        ]
+    }
